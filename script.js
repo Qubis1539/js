@@ -3,17 +3,17 @@
 
 // Задание 1
 
-// let tc = prompt("Введите температуру в цельсиях: ");
-// let tf = (9 / 5) * tc + 32;
+let tc = prompt("Введите температуру в цельсиях: ");
+let tf = (9 / 5) * tc + 32;
 
-// alert(tf);
+alert(tf);
 
 
 // Задание 2;
 
-// let name = "Василий";
-// let admin = name;
-// alert(admin);
+let name = "Василий";
+let admin = name;
+alert(admin);
 
 
 // Задание 3
